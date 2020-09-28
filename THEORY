@@ -1,0 +1,18 @@
+I/D FEATURES-->INPUT
+DEPENDANT FEATURES-->OUTPUT
+
+SUPERVISED ML--.LINEAR REGRESSION(E.G. CAT OR NOT A CAT)-->
+SINGLE LINEAR REGRESSION(LR): Goes like a straight line
+MULTIPLE LR: For multiple features
+POLYNOMIAL LR: Goes thr all the features, accuracy is more
+RANDOM FOREST REGRESSION
+
+SUPERVISED LEARNING-->
+CLASSIFICATION--> output is either true/false, yes/no, 1/0, Spam/Not spam
+KNN, k=odd no.s
+LOGISTIC REGRRESSION
+--------------------------------------------------------------------------
+UNSUPERVISED ML-->
+KMEANS CLUSTERING
+HIRERACHICAL
+
